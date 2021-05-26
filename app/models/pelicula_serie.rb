@@ -1,0 +1,2 @@
+class PeliculaSerie < ApplicationRecord
+end
